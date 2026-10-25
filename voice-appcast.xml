@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>BrewLine Google Voice Updates</title><link>https://github.com/reidstites/brewline-downloads</link><description>Signed updates for the Google Voice edition of BrewLine.</description><language>en</language></channel></rss><!-- sparkle-signatures:
+edSignature: OvTmQQXNwi1xH6ooW4sbDOcj58gj1AViFp7x8x97zP3BpmiIyxBEDhHW4nUb1Nn+n8Yv9QF8AcXB8grbqobgCw==
+length: 614
+-->
