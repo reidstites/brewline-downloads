@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>BrewLine Updates</title>
+    <link>https://github.com/reidstites/brewline-downloads</link>
+    <description>Official BrewLine application updates.</description>
+    <language>en</language>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ibVuC3jc0SY5atMO7ghHz+4l4uRtzemCU4fNLWTzsPwOdDSsLSSn4g7jBW2zknaJqqGBFOwxon2Td75m6Q8lBA==
+length: 610
+-->
