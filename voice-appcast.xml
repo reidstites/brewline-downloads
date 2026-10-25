@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>BrewLine Google Voice Updates</title><link>https://github.com/reidstites/brewline-downloads</link><description>Signed updates for the Google Voice edition of BrewLine.</description><language>en</language></channel></rss><!-- sparkle-signatures:
-edSignature: OvTmQQXNwi1xH6ooW4sbDOcj58gj1AViFp7x8x97zP3BpmiIyxBEDhHW4nUb1Nn+n8Yv9QF8AcXB8grbqobgCw==
-length: 614
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BrewLine</title>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Sat, 24 Oct 2026 23:44:41 -0500</pubDate>
+            <sparkle:version>86</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/reidstites/brewline-downloads/releases/download/voice-v1.0.2/BrewLine-86.zip" length="11060950" type="application/octet-stream" sparkle:edSignature="7CVnZs/O0qibWCEMXgjNPgBgeE0TFlGd1aJU7ElUIOcTypJt3khnJgtyic66bEoJ+55MbgbH9q0e1IqKq6UtBg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 0pfRWli3Z3YUa9aKdWi0i31SssjLunVOPIjkx/X7KnICk0HtKrMa3qtXKAEDNo01Fx1VDJHv3GJngB1gJGXcAg==
+length: 1137
 -->
