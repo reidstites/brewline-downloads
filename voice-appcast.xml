@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BrewLine</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Sun, 25 Oct 2026 00:12:00 -0500</pubDate>
-            <sparkle:version>87</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Sun, 25 Oct 2026 08:19:49 -0500</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/d389ff57aee4c61c1697c5a4e8abe3c135cb5746/downloads/voice/BrewLine-87.zip" length="11068931" type="application/octet-stream" sparkle:edSignature="uh7nl6GQx9CtibRzL/C4q4B7yojOwwB2GKyYEyoJrxCDm8U7sO9IVA0vrac+BE5yczlJtmbIRjE/z52XUexECw=="></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/05ced4ed96585b91dda61d9e37fea1e57ea3c7c9/downloads/voice/BrewLine-89.zip" length="11194882" type="application/octet-stream" sparkle:edSignature="1PYxcEg9GMr/BhSiv+SmydR07FTfHRSSwb/xNScJW0/Waxs/wzedDW7wkfqsig4vmaW182peDKhorYel1LatCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: uVktmxqMxa2hB4ZDxfFjoW8u09WHhTkz9zssxnPgA0W6UEgwMhjECFNNBd5RiZ42ibZ4RQ18DkkINQXZ9LhmAQ==
+edSignature: qG5K2vr52ero6wsqvBoSplIbZoksS8xA9x54dB2MsSeM1X7btvM0CNXTP3EW/D6J8oqG1WVis7FRp++Uxy0/AQ==
 length: 1178
 -->
