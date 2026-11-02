@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BrewLine</title>
         <item>
-            <title>1.0.10</title>
-            <pubDate>Mon, 02 Nov 2026 14:13:41 -0600</pubDate>
-            <sparkle:version>125</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>1.0.11</title>
+            <pubDate>Mon, 02 Nov 2026 14:44:06 -0600</pubDate>
+            <sparkle:version>126</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>Fixes Connect Messages and the macOS Automation permission request.</description>
-            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/b5c7ba2c0617a8419d9142a310d36b5af7b375ed/downloads/voice/BrewLine-125.zip" length="11662964" type="application/octet-stream" sparkle:edSignature="GvTU0izPOD2gXEvTMFJUOWQvmfFQ0q/bl/8biF2aMcF6+e+dYpxcfLDxHYh7KI/ZtiLHtuTFJ/YrWWOyt7L0Cg=="></enclosure>
+            <description>Fixes Messages batch sending and uses a two-second cancel countdown in both messaging modes.</description>
+            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/e671d85bea46fb61f6c358d75cd321edb6391339/downloads/voice/BrewLine-126.zip" length="11663145" type="application/octet-stream" sparkle:edSignature="F5loOXr9O16FUoISIuBB/byOwuNlbZJGki9AmCbDPK6C5j/JH3pZbuO1QZQeCgCJtzRzUYf4SO+rhwaeFxmWDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YMdebakVhFx+CLVABTMgI1/CENb7g0lUZVr8Al/s9u4pWtL7aGXnDinGAqSwMo9gmT0TJRCXw9C2kiml8ZIMAA==
-length: 1306
+edSignature: wkbr+kpahvQ77GxbmQB1piknDlDvz8W2nlAOaDyFi0yaCKQ+Jt5f9QE+sTIrWcrtjDHhFihC+4urBKAWurOxDg==
+length: 1331
 -->
