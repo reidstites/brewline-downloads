@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BrewLine</title>
         <item>
-            <title>1.0.9</title>
-            <pubDate>Mon, 02 Nov 2026 13:41:51 -0600</pubDate>
-            <sparkle:version>124</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <title>1.0.10</title>
+            <pubDate>Mon, 02 Nov 2026 14:13:41 -0600</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>Messages mode with your existing inbox, new Acceptance/Rejection templates, and simpler sending and batch details.</description>
-            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/c687940e5099733789876093977ea3b13df69692/downloads/voice/BrewLine-124.zip" length="11662886" type="application/octet-stream" sparkle:edSignature="eQdTZndLbFxIHXxTgrzVym1TI4LmkO4oA9107kRswktbn/EwPFjWnuQX7PNLSWrIdzwrI9n0lL21POrePgzgCA=="></enclosure>
+            <description>Fixes Connect Messages and the macOS Automation permission request.</description>
+            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/b5c7ba2c0617a8419d9142a310d36b5af7b375ed/downloads/voice/BrewLine-125.zip" length="11662964" type="application/octet-stream" sparkle:edSignature="GvTU0izPOD2gXEvTMFJUOWQvmfFQ0q/bl/8biF2aMcF6+e+dYpxcfLDxHYh7KI/ZtiLHtuTFJ/YrWWOyt7L0Cg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: U62u7khGjULj9PaM1wDbqQ3f7zM4Li3v5dPmD/VGbePVG/iBYvjzEPZ9qVwXkKWolgAolp7eCDs/sHfQL2WBBQ==
-length: 1351
+edSignature: YMdebakVhFx+CLVABTMgI1/CENb7g0lUZVr8Al/s9u4pWtL7aGXnDinGAqSwMo9gmT0TJRCXw9C2kiml8ZIMAA==
+length: 1306
 -->
