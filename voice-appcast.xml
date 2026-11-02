@@ -1,19 +1,20 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>BrewLine</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Tue, 27 Oct 2026 13:21:12 -0500</pubDate>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.7</title>
+            <pubDate>Sun, 01 Nov 2026 23:09:33 -0600</pubDate>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/5b60f443c27bdfa17b0c02da341fa6a19ed2cfc7/downloads/voice/BrewLine-105.zip" length="11421410" type="application/octet-stream" sparkle:edSignature="f8yJpaUekAgWY2w5L1kl+FcDZrLGznLIRnwh8ZfZUH1LcjPKV3ds/g4wDH6C6S/yGUxSrtNdMLPACu+G8BXKDw=="></enclosure>
+            <description>Reviewed clears old batches. Clearer sending-limit warnings and manual retries. Check for updates during active work.</description>
+            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/f2bf052cb9016fe42435d8a9bc303322a51f6334/downloads/voice/BrewLine-112.zip" length="11452414" type="application/octet-stream" sparkle:edSignature="3GJzpaXr0Gm9aUQ7yLSdfzwmS2EyV3HdbAIRMiyiA/tYB+tVZIsLIxKR8fiZ5xPUiPU6YMicjqEHKbsPIAGWDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tBSUDvguvY6u1JzAE84YBV6dzf1OZ9P4U00Ku0y3vVJqtVjnJ6p99Jw7gb276jwv9o5fZpyjfjXef3zLH5XHAw==
-length: 1180
+edSignature: WEz2T+Xj0pPJAXjXZeoW5Q4MSVsOUke2mYDN8ZtYanA5dHR5/QaLvSRBUDBokgOxFt2YQc5hkG/gThQrTqyAAA==
+length: 1354
 -->
