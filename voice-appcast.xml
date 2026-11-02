@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BrewLine</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Sun, 01 Nov 2026 23:09:33 -0600</pubDate>
-            <sparkle:version>112</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Mon, 02 Nov 2026 09:18:24 -0600</pubDate>
+            <sparkle:version>113</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>Reviewed clears old batches. Clearer sending-limit warnings and manual retries. Check for updates during active work.</description>
-            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/f2bf052cb9016fe42435d8a9bc303322a51f6334/downloads/voice/BrewLine-112.zip" length="11452414" type="application/octet-stream" sparkle:edSignature="3GJzpaXr0Gm9aUQ7yLSdfzwmS2EyV3HdbAIRMiyiA/tYB+tVZIsLIxKR8fiZ5xPUiPU6YMicjqEHKbsPIAGWDA=="></enclosure>
+            <description>Continue reopens saved drafts reliably. Includes Reviewed, manual retries, and update-check fixes.</description>
+            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/a4fd4f4beae814869d7f7fe2dd1123625cfae237/downloads/voice/BrewLine-113.zip" length="11453158" type="application/octet-stream" sparkle:edSignature="vsbYoubXDc+1EVUuB4aVVQsfXIoKhAP0Eqq/Aof6bwVUlxaa7fdzDMYX6R6NiicIY+RHx1CukyKb9CW+vjUrBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WEz2T+Xj0pPJAXjXZeoW5Q4MSVsOUke2mYDN8ZtYanA5dHR5/QaLvSRBUDBokgOxFt2YQc5hkG/gThQrTqyAAA==
-length: 1354
+edSignature: FzOp9JEXpJ9PzuNTtuXVjqReR31do30/AZPjsKB/DUljDlOUZOwv5Ys8PWLs6IgwCERZ1H4r6WpbxedMZhV4Bw==
+length: 1335
 -->
