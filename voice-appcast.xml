@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BrewLine</title>
         <item>
-            <title>1.0.11</title>
-            <pubDate>Mon, 02 Nov 2026 14:44:06 -0600</pubDate>
-            <sparkle:version>126</sparkle:version>
-            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <title>1.0.12</title>
+            <pubDate>Mon, 02 Nov 2026 18:39:39 -0600</pubDate>
+            <sparkle:version>127</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>Fixes Messages batch sending and uses a two-second cancel countdown in both messaging modes.</description>
-            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/e671d85bea46fb61f6c358d75cd321edb6391339/downloads/voice/BrewLine-126.zip" length="11663145" type="application/octet-stream" sparkle:edSignature="F5loOXr9O16FUoISIuBB/byOwuNlbZJGki9AmCbDPK6C5j/JH3pZbuO1QZQeCgCJtzRzUYf4SO+rhwaeFxmWDQ=="></enclosure>
+            <description>Corrects Jotform interview times and brings the same reminder layout and form checks to both messaging modes.</description>
+            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/b78604e2a2937fa477410b6cf1cac6b6b08ce4ae/downloads/voice/BrewLine-127.zip" length="11687196" type="application/octet-stream" sparkle:edSignature="HYzjLb4Su3dKXu/ylgH1WVvk5al3fdWPb48nuxBQqOICedPNmxgOUDOwUdy9xrZn0AjT9QoiaJHOzwYtfaRuDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wkbr+kpahvQ77GxbmQB1piknDlDvz8W2nlAOaDyFi0yaCKQ+Jt5f9QE+sTIrWcrtjDHhFihC+4urBKAWurOxDg==
-length: 1331
+edSignature: We37PejZ1Hvom+OXEKqmeFTbdFmewF7GCRuTrZzreYQ8VPJi2SERQLDRbXabyBrImeB2XZZHrp3O2xN4YokdAg==
+length: 1348
 -->
