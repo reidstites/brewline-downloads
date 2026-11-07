@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BrewLine</title>
         <item>
-            <title>1.0.12</title>
-            <pubDate>Mon, 02 Nov 2026 18:39:39 -0600</pubDate>
-            <sparkle:version>127</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <title>1.0.13</title>
+            <pubDate>Fri, 06 Nov 2026 23:09:33 -0600</pubDate>
+            <sparkle:version>128</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>Corrects Jotform interview times and brings the same reminder layout and form checks to both messaging modes.</description>
-            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/b78604e2a2937fa477410b6cf1cac6b6b08ce4ae/downloads/voice/BrewLine-127.zip" length="11687196" type="application/octet-stream" sparkle:edSignature="HYzjLb4Su3dKXu/ylgH1WVvk5al3fdWPb48nuxBQqOICedPNmxgOUDOwUdy9xrZn0AjT9QoiaJHOzwYtfaRuDA=="></enclosure>
+            <description>Adds a Send anyway confirmation for completed duplicate messages in Google Voice and Messages.</description>
+            <enclosure url="https://raw.githubusercontent.com/reidstites/brewline-downloads/30e0440912502f0b540271764dcad7784457b60f/downloads/voice/BrewLine-128.zip" length="11696919" type="application/octet-stream" sparkle:edSignature="o2aJ0hv3SikFi0b1naIGgnCcHgkvx3QUPZ0s/jf+sBu+dlSyhUajMjdvsJVJ3d7lsv6Uzq+EnOUgke0aKXU/DQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: We37PejZ1Hvom+OXEKqmeFTbdFmewF7GCRuTrZzreYQ8VPJi2SERQLDRbXabyBrImeB2XZZHrp3O2xN4YokdAg==
-length: 1348
+edSignature: b4uJFb59xH0Alq64WZuIiIPsZQj26jcaj4TOZiQ8WrReSbPo5113N/Ji8F9vU5hn8EZY8miWc9q9NktaqCIjDA==
+length: 1333
 -->
